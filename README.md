@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img />
+<img https://c-ssl.duitang.com/uploads/blog/202202/12/20220212155412_bbca7.jpg>
 </p>
